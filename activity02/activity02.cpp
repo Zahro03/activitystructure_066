@@ -15,7 +15,7 @@ struct Mahasiswa
 	int umur;
 };
 
-int main() {
+int main() { 
 	Mahasiswa mhs;
 
 	cout << "Masukan NIM : ";
