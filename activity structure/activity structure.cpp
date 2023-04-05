@@ -10,7 +10,7 @@ struct Mahasiswa
 };
 
 
-int main() {
+int main() { 
 	Mahasiswa mhs, mhs2;
 
 	mhs.nim = "20190140019";
