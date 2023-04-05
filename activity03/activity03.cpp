@@ -11,7 +11,7 @@ struct Mahasiswa
 {
 	char nim[12];
 	char nama[20];
-	DetailAlamat alamat;
+	DetailAlamat alamat; 
 	int umur;
 };
 
